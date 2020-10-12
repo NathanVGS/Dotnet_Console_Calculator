@@ -1,0 +1,13 @@
+/home/user/Documents/Dotnettests/Console_calculator/bin/Debug/netcoreapp3.1/Console_calculator
+/home/user/Documents/Dotnettests/Console_calculator/bin/Debug/netcoreapp3.1/Console_calculator.deps.json
+/home/user/Documents/Dotnettests/Console_calculator/bin/Debug/netcoreapp3.1/Console_calculator.runtimeconfig.json
+/home/user/Documents/Dotnettests/Console_calculator/bin/Debug/netcoreapp3.1/Console_calculator.runtimeconfig.dev.json
+/home/user/Documents/Dotnettests/Console_calculator/bin/Debug/netcoreapp3.1/Console_calculator.dll
+/home/user/Documents/Dotnettests/Console_calculator/bin/Debug/netcoreapp3.1/Console_calculator.pdb
+/home/user/Documents/Dotnettests/Console_calculator/obj/Debug/netcoreapp3.1/Console_calculator.csprojAssemblyReference.cache
+/home/user/Documents/Dotnettests/Console_calculator/obj/Debug/netcoreapp3.1/Console_calculator.AssemblyInfoInputs.cache
+/home/user/Documents/Dotnettests/Console_calculator/obj/Debug/netcoreapp3.1/Console_calculator.AssemblyInfo.cs
+/home/user/Documents/Dotnettests/Console_calculator/obj/Debug/netcoreapp3.1/Console_calculator.csproj.CoreCompileInputs.cache
+/home/user/Documents/Dotnettests/Console_calculator/obj/Debug/netcoreapp3.1/Console_calculator.dll
+/home/user/Documents/Dotnettests/Console_calculator/obj/Debug/netcoreapp3.1/Console_calculator.pdb
+/home/user/Documents/Dotnettests/Console_calculator/obj/Debug/netcoreapp3.1/Console_calculator.genruntimeconfig.cache
